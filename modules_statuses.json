@@ -1,0 +1,8 @@
+{
+    "Customer": true,
+    "ReponseFormatController": true,
+    "Waiter": true,
+    "Migration": true,
+    "AddWaiterIdToOrders": false,
+    "AddFbTokenToWaitersTable": true
+}
